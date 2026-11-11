@@ -46,3 +46,12 @@
 
 8\. Әкімші ML-модельдің нұсқасын жаңартады және пайдаланушыларды басқарады.
 
+
+## Құжаттама
+
+
+
+\- \[Activity: ақауды анықтау](docs/analysis/activity-detect-defect.png)
+
+\- \[Sequence: ақауды анықтау](docs/analysis/sequence-detect-defect.png)
+
