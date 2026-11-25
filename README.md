@@ -27,3 +27,9 @@
 
 - [Activity: ақауды анықтау](docs/analysis/activity-detect-defect.png)
 - [Sequence: ақауды анықтау](docs/analysis/sequence-detect-defect.png)
+- [DFD контекстік диаграммасы](docs/analysis/dfd-context.png)
+- [DFD 0-деңгей](docs/analysis/dfd-level0.png)
+- [DFD 1-деңгей](docs/analysis/dfd-level1.png)
+- [ERD диаграммасы](docs/database/erd.png)
+- [SQL схема](docs/database/schema.sql)
+- [Сұраныс нәтижелері](docs/database/query-results.png)
